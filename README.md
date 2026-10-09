@@ -11,12 +11,12 @@ Welcome to my official repository for the **Auspify Technologies Artificial Inte
 
 ## 📌 Internship Portfolio & Task Navigation
 
-| Task # | Task Title | Domain / Tech Stack | Status | Documentation & Code |
-| :---: | :--- | :--- | :---: | :---: |
-| **Task 1** | **Netflix Content Recommendation System** | NLP, TF-IDF, Cosine Similarity, Pandas | ✅ Completed | [Explore Task 1](./Task_01) |
-| **Task 2** | Movie Rating Prediction | Regression, Scikit-Learn, EDA | ⏳ Next Task | [Explore Task 2](./Task_02) |
-| **Task 3** | Iris Flower Classification | Supervised Classification, Decision Trees | ⏳ Upcoming | [Explore Task 3](./Task_03) |
-| **Task 4** | Sales Prediction | Time Series / Linear Regression, Seaborn | ⏳ Upcoming | [Explore Task 4](./Task_04) |
+| Task # | Task Title | Status |
+| :---: | :--- | :---: |
+| **Task 1** | **Netflix Content Recommendation System** | ✅ Completed |
+| **Task 2** | Coming Soon... | ⏳ |
+| **Task 3** | Coming Soon... | ⏳ |
+| **Task 4** | Coming Soon... | ⏳ |
 
 ---
 
@@ -32,9 +32,9 @@ Auspify-AI-Internship-Tasks/
 │   ├── screenshots/                     # Step-by-step execution screenshots (11 images)
 │   ├── requirements.txt                 # Task 1 dependencies
 │   └── README.md                        # Detailed Task 1 documentation
-├── Task_02/                             # Task 2 (Upcoming)
-├── Task_03/                             # Task 3 (Upcoming)
-├── Task_04/                             # Task 4 (Upcoming)
+├── Task_02/                             # Coming Soon
+├── Task_03/                             # Coming Soon
+├── Task_04/                             # Coming Soon
 ├── .gitignore                           # Root Git ignore configuration
 └── README.md                            # Main Internship Portfolio Overview
 ```

@@ -13,12 +13,12 @@ An end-to-end **Content-Based Recommendation System** designed to analyze Netfli
 
 This repository is part of my **Auspify AI / Machine Learning Internship**. All 4 internship tasks are organized within dedicated subdirectories:
 
-| Task # | Task Title | Subdirectory | Status | Direct Link |
-| :---: | :--- | :---: | :---: | :---: |
-| **Task 1** | **Netflix Content Recommendation System** | [`/Task_01`](./Task_01) | ✅ Completed | [View Task 1](./Task_01) |
-| **Task 2** | Movie Rating Prediction | [`/Task_02`](../Task_02) | ⏳ Next Task | [View Task 2](../Task_02) |
-| **Task 3** | Iris Flower Classification | [`/Task_03`](../Task_03) | ⏳ Upcoming | [View Task 3](../Task_03) |
-| **Task 4** | Sales Prediction | [`/Task_04`](../Task_04) | ⏳ Upcoming | [View Task 4](../Task_04) |
+| Task # | Task Title | Status |
+| :---: | :--- | :---: |
+| **Task 1** | **Netflix Content Recommendation System** | ✅ Completed |
+| **Task 2** | Coming Soon... | ⏳ |
+| **Task 3** | Coming Soon... | ⏳ |
+| **Task 4** | Coming Soon... | ⏳ |
 
 ### 👤 Author & GitHub Profile
 - **Developer**: **Muhammad Haseeb Ahmed**
