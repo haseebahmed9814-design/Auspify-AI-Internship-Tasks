@@ -45,7 +45,7 @@ Auspify-AI-Internship-Tasks/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/mhaseebahmed/Auspify-AI-Internship-Tasks.git
+   git clone https://github.com/haseebahmed9814-design/Auspify-AI-Internship-Tasks.git
    cd Auspify-AI-Internship-Tasks
    ```
 
@@ -63,8 +63,8 @@ Auspify-AI-Internship-Tasks/
 - **Developer**: **Muhammad Haseeb Ahmed**
 - **Company**: **Auspify Technologies**
 - **Role**: AI / Machine Learning Intern
-- **GitHub Profile**: [github.com/mhaseebahmed](https://github.com/mhaseebahmed)
-- **Repository Link**: [github.com/mhaseebahmed/Auspify-AI-Internship-Tasks](https://github.com/mhaseebahmed/Auspify-AI-Internship-Tasks)
+- **GitHub Profile**: [github.com/haseebahmed9814-design](https://github.com/haseebahmed9814-design)
+- **Repository Link**: [github.com/haseebahmed9814-design/Auspify-AI-Internship-Tasks](https://github.com/haseebahmed9814-design/Auspify-AI-Internship-Tasks)
 
 ---
 

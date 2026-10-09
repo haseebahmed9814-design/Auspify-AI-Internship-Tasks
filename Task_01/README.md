@@ -23,8 +23,8 @@ This repository is part of my **Auspify AI / Machine Learning Internship**. All 
 ### 👤 Author & GitHub Profile
 - **Developer**: **Muhammad Haseeb Ahmed**
 - **Company**: **Auspify Technologies** (AI / ML Internship)
-- **GitHub Profile**: [github.com/mhaseebahmed](https://github.com/mhaseebahmed)
-- **Internship Repository**: [github.com/mhaseebahmed/Auspify-AI-Internship-Tasks](https://github.com/mhaseebahmed/Auspify-AI-Internship-Tasks)
+- **GitHub Profile**: [github.com/haseebahmed9814-design](https://github.com/haseebahmed9814-design)
+- **Internship Repository**: [github.com/haseebahmed9814-design/Auspify-AI-Internship-Tasks](https://github.com/haseebahmed9814-design/Auspify-AI-Internship-Tasks)
 
 ---
 
