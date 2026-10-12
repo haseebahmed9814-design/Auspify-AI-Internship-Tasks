@@ -57,10 +57,8 @@ By engineering a combined feature space and applying vector similarity metrics, 
 
 ```directory
 Task_01/
-├── dataset/
-│   └── Dataset.csv                   # Netflix titles raw metadata dataset (8,790 rows)
-├── notebooks/
-│   └── Task01.ipynb                  # Complete Jupyter Notebook (EDA, Data Cleaning, TF-IDF, Recommendation Engine & Testing)
+├── Dataset.csv                       # Netflix titles raw metadata dataset (8,790 rows)
+├── Task01.ipynb                      # Complete Jupyter Notebook (EDA, Data Cleaning, TF-IDF, Recommendation Engine & Testing)
 ├── screenshots/                      # Step-by-step execution screenshots (11 images)
 │   ├── Screenshot 2026-10-08 222403.png
 │   └── ...
@@ -229,7 +227,7 @@ else:
 
 3. **Launch Jupyter Notebook**:
    ```bash
-   jupyter notebook notebooks/Task01.ipynb
+   jupyter notebook Task01.ipynb
    ```
 
 ---

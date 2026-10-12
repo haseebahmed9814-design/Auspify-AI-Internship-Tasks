@@ -27,8 +27,8 @@ Each internship task is maintained inside its own isolated folder with its own d
 ```directory
 Auspify-AI-Internship-Tasks/
 ├── Task_01/                             # Task 1: Netflix Recommendation System
-│   ├── dataset/                         # Raw Netflix catalog metadata
-│   ├── notebooks/                       # Task01.ipynb Jupyter Notebook
+│   ├── Dataset.csv                      # Raw Netflix catalog metadata
+│   ├── Task01.ipynb                     # Task01.ipynb Jupyter Notebook
 │   ├── screenshots/                     # Step-by-step execution screenshots (11 images)
 │   ├── requirements.txt                 # Task 1 dependencies
 │   └── README.md                        # Detailed Task 1 documentation
@@ -53,7 +53,7 @@ Auspify-AI-Internship-Tasks/
    ```bash
    cd Task_01
    pip install -r requirements.txt
-   jupyter notebook notebooks/Task01.ipynb
+   jupyter notebook Task01.ipynb
    ```
 
 ---
