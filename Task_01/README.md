@@ -16,9 +16,9 @@ This repository is part of my **Auspify AI / Machine Learning Internship**. All 
 | Task # | Task Title | Status |
 | :---: | :--- | :---: |
 | **Task 1** | **Netflix Content Recommendation System** | ✅ Completed |
-| **Task 2** | Coming Soon... | ⏳ |
-| **Task 3** | Coming Soon... | ⏳ |
-| **Task 4** | Coming Soon... | ⏳ |
+| **Task 2** | Netflix Audience Rating Classification | ✅ Completed |
+| **Task 3** | Netflix Viewership Trend Forecasting | ✅ Completed |
+| **Task 4** | Netflix Content Audience Segmentation | ✅ Completed |
 
 ### 👤 Author & GitHub Profile
 - **Developer**: **Muhammad Haseeb Ahmed**
